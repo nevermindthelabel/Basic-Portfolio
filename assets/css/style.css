@@ -3,7 +3,7 @@ body {
    width: 100vw;
    margin: 0;
 }
-/*form {
+form {
     margin: 0 auto;
     width: 400px;
     padding: 1em;
@@ -38,12 +38,12 @@ textarea {
 button {
     margin-left: .5em;
     background-color: 4aaaa5;
-}*/
+}
 .top {
     display: flex;
-    border: 2px soild #cccccc;
     justify-content: center;
     margin-bottom: 40px;
+    border-bottom: 2px solid #cccccc;
 }
 header {
     flex-shrink: 1;
